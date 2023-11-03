@@ -17,7 +17,7 @@ func main() {
 
 	// x can be accessed here
 	printMe()
-
+	//
 	// y does not exist here yet
 	// so this won't work
 	// fmt.Println(y)
