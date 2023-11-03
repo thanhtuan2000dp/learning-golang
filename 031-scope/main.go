@@ -5,7 +5,7 @@ package main
 // of this file
 import (
 	"fmt"
-	"mymodule/031-scope/furtherexplored"
+	"learningGolang/031-scope/furtherexplored"
 )
 
 // x is in "package block" scope
